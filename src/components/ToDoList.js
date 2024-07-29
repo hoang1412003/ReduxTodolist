@@ -30,7 +30,7 @@ export default function ToDoList() {
         {
             filterStudent(students, flag).map((st, index)=>(
                 <div key={index}>
-                    {st.name}
+                    <p>{st.name}</p>
                     <button onClick={()=>dispatch(deleteStudent(st.id))}>X</button>
                 </div>
             ))

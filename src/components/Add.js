@@ -9,6 +9,7 @@ export default function Add(props) {
             (e)=>{
                 if(e.key ==="Enter") {
                     handle_add(text)
+                    setText("")
                 }
             }}/>
     </div>

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ReduxTodolist/static/js/main.a04f3481.js",
+    "index.html": "/ReduxTodolist/index.html",
+    "main.a04f3481.js.map": "/ReduxTodolist/static/js/main.a04f3481.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a04f3481.js"
+  ]
+}
